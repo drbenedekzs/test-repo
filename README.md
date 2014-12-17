@@ -1,4 +1,4 @@
 test-repo
 =========
 
-this is a terst repo
+this is a test repo
